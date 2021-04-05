@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-meme-generator/static/css/main.efd08f97.chunk.css",
+    "main.js": "/redux-meme-generator/static/js/main.24a38492.chunk.js",
+    "main.js.map": "/redux-meme-generator/static/js/main.24a38492.chunk.js.map",
+    "runtime-main.js": "/redux-meme-generator/static/js/runtime-main.e4ab6285.js",
+    "runtime-main.js.map": "/redux-meme-generator/static/js/runtime-main.e4ab6285.js.map",
+    "static/js/2.d0b07959.chunk.js": "/redux-meme-generator/static/js/2.d0b07959.chunk.js",
+    "static/js/2.d0b07959.chunk.js.map": "/redux-meme-generator/static/js/2.d0b07959.chunk.js.map",
+    "index.html": "/redux-meme-generator/index.html",
+    "precache-manifest.ea01a2d4261b22e9c4459691314b9669.js": "/redux-meme-generator/precache-manifest.ea01a2d4261b22e9c4459691314b9669.js",
+    "service-worker.js": "/redux-meme-generator/service-worker.js",
+    "static/css/main.efd08f97.chunk.css.map": "/redux-meme-generator/static/css/main.efd08f97.chunk.css.map",
+    "static/js/2.d0b07959.chunk.js.LICENSE.txt": "/redux-meme-generator/static/js/2.d0b07959.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4ab6285.js",
+    "static/js/2.d0b07959.chunk.js",
+    "static/css/main.efd08f97.chunk.css",
+    "static/js/main.24a38492.chunk.js"
+  ]
+}
